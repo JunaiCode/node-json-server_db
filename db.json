@@ -1,0 +1,28 @@
+{
+  "cursos": [
+    {
+      "nombre": "Curso de PHP",
+      "duracion": "3 meses",
+      "precio": "$100",
+      "id": "df18"
+    },
+    {
+      "nombre": "Curso de Java",
+      "duracion": "4 meses",
+      "precio": "$150",
+      "id": "59ec"
+    },
+    {
+      "nombre": "Curso de Python",
+      "duracion": "5 meses",
+      "precio": "$200",
+      "id": "58fa"
+    },
+    {
+      "id": "df19",
+      "nombre": "Curso de NodeJS",
+      "duracion": "4 meses",
+      "precio": "$500"
+    }
+  ]
+}
